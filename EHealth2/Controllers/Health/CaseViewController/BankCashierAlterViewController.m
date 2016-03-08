@@ -7,7 +7,7 @@
 //
 
 #import "BankCashierAlterViewController.h"
-
+#import "IncreaseBankViewController.h"
 @interface BankCashierAlterViewController ()
 
 @end
@@ -25,6 +25,10 @@
 }
 - (IBAction)returnBtnClick:(id)sender {
     [self dismissViewControllerAnimated:YES completion:nil];
+}
+- (IBAction)addBtnClick:(id)sender {
+    IncreaseBankViewController *Increase=[[IncreaseBankViewController alloc]init];
+    [self presentViewController:Increase animated:YES completion:nil];
 }
 
 /*
