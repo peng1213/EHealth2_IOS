@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[QuckClaimsUploadViewController tableView:numberOfRowsInSection:]:QuckClaimsUploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell qb_imagePickerController:didFinishPickingAssets:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[InvoiceListViewController requestFinished:]:InvoiceListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request==request2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUploadViewController tableView:cellForRowAtIndexPath:]:QuckClaimsUploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageDics[keyType]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell requestFinished:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PolicyInfoListViewController loadData]:PolicyInfoListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__88-[UIImageView(WebCache) sd_setImageWithURL:placeholderImage:options:progress:completed:]_block_invoke18:UIImageView+WebCache.m">
+      </ContextState>
+      <ContextState
+         contextName = "__45-[LaunchViewController checkUpdateWithAPPID:]_block_invoke:LaunchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[newVersion doubleValue]">
+            </PersistentString>
+            <PersistentString
+               value = "[currentVersion doubleValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityViewController tableView:cellForRowAtIndexPath:]:CityViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationFlag==YES">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__64-[QBAssetsViewController collectionView:cellForItemAtIndexPath:]_block_invoke:QBAssetsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell reload]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsViewController loadDate]:QuckClaimsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "toDtIcon.isHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[UploadViewController addUploadRequest:]_block_invoke:UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[type.IMAGE_LIST indexOfObject:img]">
+            </PersistentString>
+            <PersistentString
+               value = "asset.defaultRepresentation.fullResolutionImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadViewController requestFinished:]:UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyCaseViewController requestFinished:]:MyCaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseString">
+            </PersistentString>
+            <PersistentString
+               value = "result.ResultCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController requestFinished:]:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell uploadImage:]:QuckClaimsUpladTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell GMGridView:processDeleteActionForItemAtIndex:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ClaimReportQueryViewController viewDidLoad]:ClaimReportQueryViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageTableViewCell requestFinished:]:UploadImageTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.userInfo[@&quot;row&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GMGridViewCell setProgress:]:GMGridViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.contentView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController setProgress:]:UploadImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkQueue.requestsCount*newProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__77-[UploadImageViewController qb_imagePickerController:didFinishPickingAssets:]_block_invoke:UploadImageViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsViewController requestFinished:]:QuckClaimsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ConfigTool getWeatherCode]:ConfigTool.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[settings objectForKey:@&quot;code&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController tableView:commitEditingStyle:forRowAtIndexPath:]:UploadImageViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController tableView:cellForRowAtIndexPath:]:UploadImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((ReportImage*)(imageDics[indexPath.section])).images[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "((ReportImage*)imageDics[indexPath.row])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUploadViewController requestFinished:]:QuckClaimsUploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CityViewController viewDidLoad]:CityViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LaunchViewController checkUpdateWithAPPID:]:LaunchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController tableView:viewForHeaderInSection:]:UploadImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGRectMake(0, 0, tableView.frame.size.width, 60)">
+            </PersistentString>
+            <PersistentString
+               value = "tableView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "titleBg.frame.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageTableViewCell GMGridView:cellForItemAtIndex:]:UploadImageTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[dic copy]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BankListViewController loadData]:BankListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.responseString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyCaseViewController reloadData:]:MyCaseViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ClaimDetailTableViewCell setCellValue:]:ClaimDetailTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageViewController viewDidLoad]:ImageViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController qb_imagePickerController:didSelectAssets:]:UploadImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "asset.defaultRepresentation.fullResolutionImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QueryClaimsListViewController tableView:cellForRowAtIndexPath:]:QueryClaimsListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsViewController nextButtonClick]:QuckClaimsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.APPL_AMT.text">
+            </PersistentString>
+            <PersistentString
+               value = "currentCaseInfo.REPT_ID">
+            </PersistentString>
+            <PersistentString
+               value = "self.CASE_TYPE_Label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadViewController addUploadRequest:]:UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "asset.defaultRepresentation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsViewController initDataWithModel:]:QuckClaimsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JsonTool getTReptImgInfoModel:]:JsonTool.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QueryClaimsListViewController tableView:heightForRowAtIndexPath:]:QueryClaimsListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.contentView.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController imagePickerController:didFinishPickingMediaWithInfo:]:UploadImageViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WelcomViewController GMGridView:cellForItemAtIndex:]:WelcomViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JsonTool getTReptImgInfoList:withKey:]:JsonTool.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageTableViewCell setCellValue:]:UploadImageTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.request.complete">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[UploadViewController addUploadRequest:]_block_invoke554:UploadViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__80-[QuckClaimsUpladTableViewCell qb_imagePickerController:didFinishPickingAssets:]_block_invoke:QuckClaimsUpladTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIImage *)img-&gt;_IMAGE">
+            </PersistentString>
+            <PersistentString
+               value = "contentEditingInput.fullSizeImageURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QBAssetsViewController collectionView:cellForItemAtIndexPath:]:QBAssetsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.traitCollection.displayScale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[UploadViewController addUploadRequest:]_block_invoke_2:UploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[type.IMAGE_LIST indexOfObject:img]">
+            </PersistentString>
+            <PersistentString
+               value = "[mainTableView cellForRowAtIndexPath:index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell numberOfItemsInGMGridView:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController uploadImage:]:UploadImageViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[ASIHTTPRequest performSelector:onTarget:withObject:amount:callerToRetain:]:ASIHTTPRequest.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*target">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ImageShowViewController viewDidLoad]:ImageShowViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUploadViewController tableView:heightForRowAtIndexPath:]:QuckClaimsUploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageDics.allKeys[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "60+20+80*([imageDics[imageDics.allKeys[indexPath.row]] count]/4)">
+            </PersistentString>
+            <PersistentString
+               value = "50+100*([imageDics[imageDics.allKeys[indexPath.row]] count]%4+1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell initWithStyle:reuseIdentifier:]:QuckClaimsUpladTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UploadImageViewController updateCellOnMainThread:]:UploadImageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(float)imageInfo.ReceivedSize/imageInfo.IMAGE.length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell GMGridView:cellForItemAtIndex:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUpladTableViewCell setCellValue:type:viewController:]:QuckClaimsUpladTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[QuckClaimsUploadViewController deleteImage:]:QuckClaimsUploadViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "mlist0[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ClaimReportListViewController requestFinished:]:ClaimReportListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.CREATE_DT_Label.isHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

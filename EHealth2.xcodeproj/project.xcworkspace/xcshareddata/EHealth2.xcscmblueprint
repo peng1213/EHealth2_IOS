@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "86175d59-a0bc-2a44-920c-d80033d34786++4318",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "86175d59-a0bc-2a44-920c-d80033d34786++4318" : {
+
+    },
+    "93a4cfb3-9604-0941-950d-6f3f21812717++7961" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86175d59-a0bc-2a44-920c-d80033d34786++4318" : 0,
+    "93a4cfb3-9604-0941-950d-6f3f21812717++7961" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "408D3D47-5AB3-4389-B24B-AB5E3940F86B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86175d59-a0bc-2a44-920c-d80033d34786++4318" : "IOS\/",
+    "93a4cfb3-9604-0941-950d-6f3f21812717++7961" : "IOS\/EHealth2\/EHealth2\/WebManager\/AFNetworking\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EHealth2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EHealth2\/EHealth2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/123.56.131.202:8001\/svn\/EHealth2_Workspace",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86175d59-a0bc-2a44-920c-d80033d34786++4318"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.46.179.230:8443\/sp\/ZXIS-AppStore2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93a4cfb3-9604-0941-950d-6f3f21812717++7961"
+    }
+  ]
+}
